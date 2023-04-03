@@ -1,3 +1,4 @@
 # Demographic Data Analyzer
 
-run pip install pandas in console before clicking 'Run'
+replt instructions:
+run pip install pandas in the shell before clicking 'Run'
